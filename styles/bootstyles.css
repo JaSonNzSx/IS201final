@@ -1,0 +1,30 @@
+.tabh1{
+    color: black;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+    color:darkslategrey;
+    text-align: left;
+}
+
+.rear{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
+.common{
+    text-align: center;
+    position: static;
+}
+
+.footer{
+    height: 40px;
+    background-color: black;
+    color: white;
+    line-height: 40px;
+}
